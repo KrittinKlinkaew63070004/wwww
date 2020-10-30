@@ -3,6 +3,7 @@
         <title> Krittin Klinkaew (Neua) 63070004</title>
     </head>
     <body>
+        <p>Krittin Klinkaew (Neua) 63070004</p>
         <img src = "cat.jpg">
         <img src = "cat2.jpg">
         <br>
