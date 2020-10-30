@@ -1,19 +1,15 @@
 <html>
     <head>
-        <title>Test</title>
+        <title>Work</title>
     </head>
     <body>
-        <h1>My First Heading</h1>
-        <p>My First Paragraph</p>
+        <h1>Krittin Klinkaew(Neua)</h1>
+        
+        <img src = "cat.jpg">
         <img src = "cat.jpg">
         <br>
         <a href="htttp://www.it.kmitl.ac.th">This is a link</a>
 
-        <h2>The unordered list</h2>
-        <ul>
-            <li>Google</li>
-            <li>Yahoo</li>
-            <li>Amazon</li>
-        </ul>
+        <p>ฮาไม่ออกครับ...ยังส่งเว็บไม่ขึ้นเลยยยย</p>
     </body>
 </html>
